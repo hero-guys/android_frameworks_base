@@ -30,9 +30,6 @@
     <java-symbol type="string" name="adb_both_active_notification_title" />
     <java-symbol type="string" name="adb_active_generic_notification_message" />
 
-    <!-- Vendor mismatched fingerprint warning -->
-    <java-symbol type="string" name="system_error_vendorprint" />
-
     <!-- Extended Power Menu -->
     <java-symbol type="array" name="config_extendedGlobalActionsList" />
     <java-symbol type="drawable" name="ic_restart_quick" />
