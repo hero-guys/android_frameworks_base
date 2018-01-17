@@ -44,4 +44,10 @@
     <string name="global_restart_recovery_message">Restarting to recovery\u2026</string><!-- Can be used in SysUIReboot -->
     <string name="global_restart_bootloader">Bootloader</string>
     <string name="global_restart_bootloader_message">Restarting to bootloader\u2026</string><!-- Can be used in SysUIReboot -->
+
+    <!-- Message to show the user when their vendor image doesn't match the build's fingerprint. -->
+    <string name="lineage_system_error_manufacturer">A vendor image mismatch has been detected. Typically this means your vendor image is out of date. Please ensure your vendor image matches <xliff:g id="fingerprint">%1$s</xliff:g>.</string>
+
+    <!-- Notify user that they are in Lock-to-app (for devices without navbar) -->
+    <string name="lock_to_app_toast_no_navbar">To unpin this screen, touch and hold the Back button.</string>
 </resources>
